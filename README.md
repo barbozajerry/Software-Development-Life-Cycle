@@ -1,6 +1,6 @@
 # Software-Development-Life-Cycle
 
-<h1> How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? </h1>
+<h5> How do I interpret user needs and implement them into a program? How does creating “user stories” help with this? </h5>
 
 In order to interpret user needs, I can gather some important users with experince with that product or similar product and asked them for their feedback and stories. A very diverse group of users is also very important in order to make a great product for everyone out there. An 18 year old might have different needs and stories from a 30 year old adult. Therefore is is really good when the stories of the users are well diversed in order to make the product usable for everyone that might want to use it. Once I collect all the data from the user stories, I can see which featuttures where theh most important and start working on them first. Once I have a program running, I can then ask for more feedback about the code.
 
